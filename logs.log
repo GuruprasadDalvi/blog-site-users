@@ -1,0 +1,714 @@
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user1"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Error creating new user: User already exists","stack":"Error: User already exists\n    at UserService.createNewUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:22:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:13:20"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example1.com","level":"debug","message":"Creating new user:","password":"password123","username":"user1"}
+{"level":"error","message":"Error creating new user: User already exists","stack":"Error: User already exists\n    at UserService.createNewUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:22:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:13:20"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example1.com","level":"debug","message":"Creating new user:","password":"password123","username":"user11"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example1.com","level":"debug","message":"New user created:","username":"user11"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example1.com","level":"debug","message":"Creating new user:","password":"password123","username":"user11"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example1.com","level":"debug","message":"New user created:","username":"user11"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example12.com","level":"debug","message":"Creating new user:","password":"password123","username":"user111"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example12.com","level":"debug","message":"New user created:","username":"user111"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example12.com","level":"debug","message":"Creating new user:","password":"password123","username":"user111"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example12.com","level":"debug","message":"New user created:","username":"user111"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user@example.com","level":"debug","message":"New user created:","username":"user"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"error"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"error"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"All users retrieved"}
+{"level":"error"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"All users retrieved"}
+{"level":"error"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"error"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user111"}
+{"level":"error","message":"Error logging in user: Invalid username or email","stack":"Error: Invalid username or email\n    at UserService.loginUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:68:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:27:20"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"error","message":"Error logging in user: Invalid username or email","stack":"Error: Invalid username or email\n    at UserService.loginUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:68:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:27:20"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"error","message":"Error logging in user: Invalid username or email","stack":"Error: Invalid username or email\n    at UserService.loginUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:68:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:27:20"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":true,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"_message":"Blog validation failed","errors":{"id":{"kind":"required","message":"Path `id` is required.","name":"ValidatorError","path":"id","properties":{"message":"Path `id` is required.","path":"id","type":"required"}}},"level":"error","message":"Error creating new blog: Blog validation failed: id: Path `id` is required.","stack":"ValidationError: Blog validation failed: id: Path `id` is required.\n    at Document.invalidate (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\document.js:3307:32)\n    at F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\document.js:3068:17\n    at F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":true,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666ad5a1b2537404577a6d6b","content":"Blog content here...","createdAt":"2024-06-13T11:18:57.605Z","isPublished":true,"title":"Blog Title","updatedAt":"2024-06-13T11:18:57.605Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666ae612b2537404577a6d6d","content":"Blog content here...","createdAt":"2024-06-13T12:29:06.360Z","isPublished":false,"title":"Blog Title","updatedAt":"2024-06-13T12:29:06.360Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Getting user details"}
+{"level":"debug","message":"Getting user details:"}
+{"level":"info","message":"User details retrieved"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User details retrieved:"}
+{"level":"info","message":"Getting user details"}
+{"level":"debug","message":"Getting user details:"}
+{"level":"info","message":"User details retrieved"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User details retrieved:"}
+{"level":"info","message":"Getting user details"}
+{"level":"debug","message":"Getting user details:"}
+{"level":"info","message":"User details retrieved"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User details retrieved:"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user"}
+{"level":"error","message":"Error creating new user: User already exists","stack":"Error: User already exists\n    at UserService.createNewUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:22:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:13:20"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Error updating user password: Password is required","stack":"Error: Password is required\n    at UserService.updateUserPassword (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:209:23)\n    at F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:59:37\n    at Layer.handle [as handle_request] (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at checkAuthorization (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\middleware\\ValidationMiddleware.js:29:9)\n    at Layer.handle [as handle_request] (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\index.js:284:15"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Error updating user password: password is required","stack":"Error: password is required\n    at UserService.updateUserPassword (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:209:23)\n    at F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:59:37\n    at Layer.handle [as handle_request] (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at checkAuthorization (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\middleware\\ValidationMiddleware.js:29:9)\n    at Layer.handle [as handle_request] (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\index.js:284:15"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Updating user password"}
+{"level":"debug","message":"Updating user password:"}
+{"level":"error","message":"Error updating user password: password is required","stack":"Error: password is required\n    at UserService.updateUserPassword (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:211:23)\n    at F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:59:37\n    at Layer.handle [as handle_request] (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at checkAuthorization (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\middleware\\ValidationMiddleware.js:29:9)\n    at Layer.handle [as handle_request] (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\route.js:149:13)\n    at Route.dispatch (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\route.js:119:3)\n    at Layer.handle [as handle_request] (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\express\\lib\\router\\index.js:284:15"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$vtlnClOYkVKowFLgetbgseSowJOAn/zOean5lTJV.D1HKC6jtdN5y","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Updating user password"}
+{"level":"debug","message":"Updating user password:","password":"123"}
+{"level":"info","message":"User password updated"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"require","password":"require","username":"require"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true},"modify":{},"require":{"email":true,"password":true,"username":true}}},"backup":{"activePaths":{"default":{},"modify":{"password":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["password"],"op":null,"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$h4WpoReCArnMaIlxl0rRVeFnvNkLkpjdvvxV6dzSb0YT9WGZDbgxy","username":"user"},"level":"debug","message":"User password updated:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"error","message":"Error logging in user: Invalid password","stack":"Error: Invalid password\n    at UserService.loginUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:76:23)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:27:20"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user"}
+{"level":"error","message":"Error logging in user: Invalid password","stack":"Error: Invalid password\n    at UserService.loginUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:76:23)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:27:20"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"1234567890","username":"user"}
+{"level":"error","message":"Error logging in user: Invalid password","stack":"Error: Invalid password\n    at UserService.loginUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:76:23)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:27:20"}
+{"level":"info","message":"Updating user password"}
+{"level":"debug","message":"Updating user password:","password":"1234567890"}
+{"level":"info","message":"User password updated"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"require","password":"require","username":"require"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true},"modify":{},"require":{"email":true,"password":true,"username":true}}},"backup":{"activePaths":{"default":{},"modify":{"password":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["password"],"op":null,"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"User password updated:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"1234567890","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user"}
+{"level":"error","message":"Error creating new user: User already exists","stack":"Error: User already exists\n    at UserService.createNewUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:22:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:13:20"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"1234567890","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"666acbb92b04e12ef3037ade","bookmarks":[],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Adding bookmark"}
+{"level":"debug","message":"Adding bookmark:"}
+{"level":"error","message":"Error adding bookmark: User not found","stack":"Error: User not found\n    at UserService.addBookmark (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:113:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:79:18"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"123","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Bookmark added"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","email":"require","password":"require","username":"require"},"states":{"default":{},"init":{"__v":true,"_id":true},"modify":{},"require":{"email":true,"password":true,"username":true}}},"backup":{"activePaths":{"default":{},"modify":{"bookmarks":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["bookmarks"],"op":null,"pathsToScopes":{"bookmarks":{"__v":1,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"}},"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":1,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"Bookmark added:"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"1234567890","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":1,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"123","level":"debug","message":"Adding bookmark:"}
+{"level":"error","message":"Error adding bookmark: Bookmark already exists","stack":"Error: Bookmark already exists\n    at UserService.addBookmark (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:118:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:79:18"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Bookmark added"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","email":"require","password":"require","username":"require"},"states":{"default":{},"init":{"__v":true,"_id":true},"modify":{},"require":{"email":true,"password":true,"username":true}}},"backup":{"activePaths":{"default":{},"modify":{"bookmarks":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["bookmarks"],"op":null,"pathsToScopes":{"bookmarks":{"__v":2,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123","1213"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"}},"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":2,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123","1213"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"Bookmark added:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"error","message":"Error adding bookmark: Bookmark already exists","stack":"Error: Bookmark already exists\n    at UserService.addBookmark (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:118:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:79:18"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Removing bookmark"}
+{"blogId":"1213","level":"debug","message":"Removing bookmark:"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Bookmark removed"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","email":"require","password":"require","username":"require"},"states":{"default":{},"init":{"__v":true,"_id":true},"modify":{},"require":{"email":true,"password":true,"username":true}}},"backup":{"activePaths":{"default":{},"modify":{"bookmarks":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["bookmarks"],"op":null,"pathsToScopes":{"bookmarks":{"__v":3,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"}},"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":3,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"Bookmark removed:"}
+{"level":"info","message":"Removing bookmark"}
+{"blogId":"1213","level":"debug","message":"Removing bookmark:"}
+{"level":"error","message":"Error removing bookmark: Bookmark not found","stack":"Error: Bookmark not found\n    at UserService.removeBookmark (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:154:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:89:18"}
+{"level":"info","message":"Removing bookmark"}
+{"blogId":"1213","level":"debug","message":"Removing bookmark:"}
+{"level":"error","message":"Error removing bookmark: Bookmark not found","stack":"Error: Bookmark not found\n    at UserService.removeBookmark (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:154:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:89:18"}
+{"level":"info","message":"Removing bookmark"}
+{"blogId":"1213","level":"debug","message":"Removing bookmark:"}
+{"level":"error","message":"Error removing bookmark: Bookmark not found","stack":"Error: Bookmark not found\n    at UserService.removeBookmark (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:154:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:89:18"}
+{"level":"info","message":"Removing bookmark"}
+{"blogId":"1213","level":"debug","message":"Removing bookmark:"}
+{"level":"error","message":"Error removing bookmark: Bookmark not found","stack":"Error: Bookmark not found\n    at UserService.removeBookmark (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:154:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:89:18"}
+{"level":"info","message":"Removing bookmark"}
+{"blogId":"1213","level":"debug","message":"Removing bookmark:"}
+{"level":"error","message":"Error removing bookmark: Bookmark not found","stack":"Error: Bookmark not found\n    at UserService.removeBookmark (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\UserService.js:154:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\UserRoutes.js:89:18"}
+{"level":"info","message":"Logging in user"}
+{"email":"user@example.com","level":"debug","message":"Logging in user:","password":"1234567890","username":"user"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":3,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f16fe70c2e9166637e74e","content":"Blog content here...","createdAt":"2024-06-16T16:46:54.992Z","isPublished":false,"title":"Blog Title","updatedAt":"2024-06-16T16:46:54.992Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f170470c2e9166637e750","content":"Blog content here...","createdAt":"2024-06-16T16:47:00.727Z","isPublished":false,"title":"Blog Title","updatedAt":"2024-06-16T16:47:00.727Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f170570c2e9166637e752","content":"Blog content here...","createdAt":"2024-06-16T16:47:01.228Z","isPublished":false,"title":"Blog Title","updatedAt":"2024-06-16T16:47:01.228Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f170570c2e9166637e754","content":"Blog content here...","createdAt":"2024-06-16T16:47:01.700Z","isPublished":false,"title":"Blog Title","updatedAt":"2024-06-16T16:47:01.700Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f170670c2e9166637e756","content":"Blog content here...","createdAt":"2024-06-16T16:47:02.182Z","isPublished":false,"title":"Blog Title","updatedAt":"2024-06-16T16:47:02.182Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f170670c2e9166637e758","content":"Blog content here...","createdAt":"2024-06-16T16:47:02.694Z","isPublished":false,"title":"Blog Title","updatedAt":"2024-06-16T16:47:02.694Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f170770c2e9166637e75a","content":"Blog content here...","createdAt":"2024-06-16T16:47:03.174Z","isPublished":false,"title":"Blog Title","updatedAt":"2024-06-16T16:47:03.174Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f175cc5ffc353c0ea57fc","content":"Blog content here...","createdAt":"2024-06-16T16:48:28.726Z","isPublished":false,"title":"Blog Title","updatedAt":"2024-06-16T16:48:28.726Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Retrieving blogs by userId"}
+{"level":"info","message":"Blogs retrieved by userId"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"_message":"Blog validation failed","errors":{"id":{"kind":"required","message":"Path `id` is required.","name":"ValidatorError","path":"id","properties":{"message":"Path `id` is required.","path":"id","type":"required"}}},"level":"error","message":"Error creating new blog: Blog validation failed: id: Path `id` is required.","stack":"ValidationError: Blog validation failed: id: Path `id` is required.\n    at Document.invalidate (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\document.js:3307:32)\n    at F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\document.js:3068:17\n    at F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog Title","userId":"user"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","id":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"id":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"id":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f1e77d7e1012b838b75c5","content":"Blog content here...","createdAt":"2024-06-16T17:18:47.541Z","id":1,"isPublished":false,"title":"Blog Title","updatedAt":"2024-06-16T17:18:47.541Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Retrieving blogs by userId"}
+{"level":"info","message":"Blogs retrieved by userId"}
+{"level":"info","message":"Retrieving blogs by userId"}
+{"level":"info","message":"Blogs retrieved by userId"}
+{"level":"info","message":"Retrieving blogs by userId"}
+{"level":"info","message":"Blogs retrieved by userId"}
+{"level":"info","message":"Retrieving blogs by userId"}
+{"level":"info","message":"Blogs retrieved by userId"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Retrieving all blogs"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"All blogs retrieved"}
+{"level":"info","message":"Retrieving all blogs"}
+{"level":"info","message":"All blogs retrieved"}
+{"level":"info","message":"Retrieving all blogs"}
+{"level":"info","message":"All blogs retrieved"}
+{"level":"info","message":"Retrieving all blogs"}
+{"level":"info","message":"All blogs retrieved"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Retrieving blog by ID"}
+{"kind":"ObjectId","level":"error","message":"Error retrieving blog by ID: Cast to ObjectId failed for value \"all\" (type string) at path \"_id\" for model \"Blog\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"all\" (type string) at path \"_id\" for model \"Blog\"\n    at SchemaObjectId.cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schemaType.js:1236:12)\n    at SchemaType.castForQuery (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schemaType.js:1653:17)\n    at cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\cast.js:375:32)\n    at Query.cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:4798:12)\n    at Query._castConditions (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:2206:10)\n    at model.Query._findOne (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:2526:8)\n    at model.Query.exec (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:4342:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BlogService.getBlogById (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\BlogService.js:124:26)","stringValue":"\"all\"","value":"all","valueType":"string"}
+{"level":"info","message":"Retrieving blog by ID"}
+{"kind":"ObjectId","level":"error","message":"Error retrieving blog by ID: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Blog\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Blog\"\n    at SchemaObjectId.cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schemaType.js:1236:12)\n    at SchemaType.castForQuery (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schemaType.js:1653:17)\n    at cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\cast.js:375:32)\n    at Query.cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:4798:12)\n    at Query._castConditions (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:2206:10)\n    at model.Query._findOne (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:2526:8)\n    at model.Query.exec (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:4342:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BlogService.getBlogById (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\BlogService.js:124:26)","stringValue":"\"1\"","value":"1","valueType":"string"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Retrieving blog by ID"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Blog retrieved by ID"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Updating blog"}
+{"content":"<h1>Blog content here...</h1>","level":"debug","message":"Updating blog:","title":"Blog Title updated"}
+{"kind":"ObjectId","level":"error","message":"Error updating blog: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Blog\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Blog\"\n    at SchemaObjectId.cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schemaType.js:1236:12)\n    at SchemaType.castForQuery (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schemaType.js:1653:17)\n    at cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\cast.js:375:32)\n    at Query.cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:4798:12)\n    at Query._castConditions (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:2206:10)\n    at model.Query._findOne (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:2526:8)\n    at model.Query.exec (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:4342:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BlogService.updateBlog (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\BlogService.js:49:26)","stringValue":"\"1\"","value":"1","valueType":"string"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Updating blog"}
+{"content":"<h1>Blog content here...</h1>","level":"debug","message":"Updating blog:","title":"Blog Title updated"}
+{"level":"info","message":"Blog updated"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","content":"require","createdAt":"require","id":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"init":{"__v":true,"_id":true},"modify":{},"require":{"content":true,"createdAt":true,"id":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{},"modify":{"content":true,"title":true,"updatedAt":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["title","content","updatedAt"],"op":null,"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f1e77d7e1012b838b75c5","content":"<h1>Blog content here...</h1>","createdAt":"2024-06-16T17:18:47.541Z","id":1,"isPublished":false,"title":"Blog Title updated","updatedAt":"2024-06-16T17:49:59.631Z","userId":"user"},"level":"debug","message":"Blog updated:"}
+{"level":"info","message":"Creating new blog"}
+{"content":"Blog content here...","isPublished":false,"level":"debug","message":"Creating new blog:","title":"Blog for deletion","userId":"user"}
+{"level":"info","message":"New blog created"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"content":"require","createdAt":"require","id":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"modify":{},"require":{"content":true,"createdAt":true,"id":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"content":true,"createdAt":true,"id":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f25de9931dd8b8a94aa46","content":"Blog content here...","createdAt":"2024-06-16T17:50:22.188Z","id":2,"isPublished":false,"title":"Blog for deletion","updatedAt":"2024-06-16T17:50:22.188Z","userId":"user"},"level":"debug","message":"New blog created:"}
+{"level":"info","message":"Retrieving blog by ID"}
+{"level":"info","message":"Blog retrieved by ID"}
+{"level":"info","message":"Retrieving all blogs"}
+{"level":"info","message":"All blogs retrieved"}
+{"level":"info","message":"Retrieving blogs by userId"}
+{"level":"info","message":"Blogs retrieved by userId"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Retrieving all blogs"}
+{"level":"info","message":"All blogs retrieved"}
+{"level":"info","message":"Retrieving blogs by userId"}
+{"level":"info","message":"Blogs retrieved by userId"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Deleting blog"}
+{"kind":"ObjectId","level":"error","message":"Error deleting blog: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Blog\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Blog\"\n    at SchemaObjectId.cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schema\\objectId.js:250:11)\n    at SchemaType.applySetters (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schemaType.js:1236:12)\n    at SchemaType.castForQuery (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\schemaType.js:1653:17)\n    at cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\cast.js:375:32)\n    at Query.cast (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:4798:12)\n    at Query._castConditions (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:2206:10)\n    at model.Query._findOne (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:2526:8)\n    at model.Query.exec (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\node_modules\\mongoose\\lib\\query.js:4342:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async BlogService.deleteBlog (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\BlogService.js:80:26)","stringValue":"\"1\"","value":"1","valueType":"string"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Deleting blog"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"error","message":"Error deleting blog: blog.remove is not a function","stack":"TypeError: blog.remove is not a function\n    at BlogService.deleteBlog (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\BlogService.js:88:24)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\BlogRoutes.js:53:25"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Deleting blog"}
+{"level":"info","message":"Blog deleted"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Publishing blog"}
+{"level":"error","message":"Error publishing blog: Blog not found","stack":"Error: Blog not found\n    at BlogService.publishBlog (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\service\\BlogService.js:169:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site\\routes\\BlogRoutes.js:83:22"}
+{"level":"info","message":"Retrieving blogs by userId"}
+{"level":"info","message":"Blogs retrieved by userId"}
+{"level":"info","message":"Publishing blog"}
+{"level":"info","message":"Blog published"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","content":"require","createdAt":"require","id":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"init":{"__v":true,"_id":true},"modify":{},"require":{"content":true,"createdAt":true,"id":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{},"modify":{"isPublished":true,"updatedAt":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["isPublished","updatedAt"],"op":null,"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f25de9931dd8b8a94aa46","content":"Blog content here...","createdAt":"2024-06-16T17:50:22.188Z","id":2,"isPublished":true,"title":"Blog for deletion","updatedAt":"2024-06-16T18:29:33.019Z","userId":"user"},"level":"debug","message":"Blog published:"}
+{"level":"info","message":"Publishing blog"}
+{"level":"info","message":"Blog published"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","content":"require","createdAt":"require","id":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"init":{"__v":true,"_id":true},"modify":{},"require":{"content":true,"createdAt":true,"id":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{},"modify":{"updatedAt":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["updatedAt"],"op":null,"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f25de9931dd8b8a94aa46","content":"Blog content here...","createdAt":"2024-06-16T17:50:22.188Z","id":2,"isPublished":true,"title":"Blog for deletion","updatedAt":"2024-06-16T18:29:39.003Z","userId":"user"},"level":"debug","message":"Blog published:"}
+{"level":"info","message":"Unpublishing blog"}
+{"level":"info","message":"Blog unpublished"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","content":"require","createdAt":"require","id":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"init":{"__v":true,"_id":true},"modify":{},"require":{"content":true,"createdAt":true,"id":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{},"modify":{"isPublished":true,"updatedAt":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["isPublished","updatedAt"],"op":null,"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f25de9931dd8b8a94aa46","content":"Blog content here...","createdAt":"2024-06-16T17:50:22.188Z","id":2,"isPublished":false,"title":"Blog for deletion","updatedAt":"2024-06-16T18:30:33.075Z","userId":"user"},"level":"debug","message":"Blog unpublished:"}
+{"level":"info","message":"Publishing blog"}
+{"level":"info","message":"Blog published"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","content":"require","createdAt":"require","id":"require","isPublished":"require","title":"require","updatedAt":"require","userId":"require"},"states":{"default":{},"init":{"__v":true,"_id":true},"modify":{},"require":{"content":true,"createdAt":true,"id":true,"isPublished":true,"title":true,"updatedAt":true,"userId":true}}},"backup":{"activePaths":{"default":{},"modify":{"isPublished":true,"updatedAt":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["isPublished","updatedAt"],"op":null,"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"666f25de9931dd8b8a94aa46","content":"Blog content here...","createdAt":"2024-06-16T17:50:22.188Z","id":2,"isPublished":true,"title":"Blog for deletion","updatedAt":"2024-06-16T18:30:36.178Z","userId":"user"},"level":"debug","message":"Blog published:"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Creating new user"}
+{"email":"user@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user69"}
+{"level":"error","message":"Error creating new user: User already exists","stack":"Error: User already exists\n    at UserService.createNewUser (F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site-users\\service\\UserService.js:22:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async F:\\Self Creation\\Cognizant\\Accridation 2\\backend\\blog-site-users\\routes\\UserRoutes.js:13:20"}
+{"level":"info","message":"Creating new user"}
+{"email":"user69@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user69"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user69@example.com","level":"debug","message":"New user created:","username":"user69"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Creating new user"}
+{"email":"user70@example.com","level":"debug","message":"Creating new user:","password":"password123","username":"user70"}
+{"level":"info","message":"New user created"}
+{"bookmarks":[],"email":"user70@example.com","level":"debug","message":"New user created:","username":"user70"}
+{"level":"info","message":"Logging in user"}
+{"email":"user70@example.com","level":"debug","message":"Logging in user:","password":"password123","username":"user70"}
+{"level":"info","message":"User logged in"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"66726e20fd1027a8cfa6ffd1","bookmarks":[],"email":"user70@example.com","password":"$2b$10$p0IzRBy7wWHME9DVtrYig.Px.SsnqQBRtSZaJC5.VTR3giddiULsm","username":"user70"},"level":"debug","message":"User logged in:"}
+{"level":"info","message":"Adding bookmark"}
+{"blogId":"1213","level":"debug","message":"Adding bookmark:"}
+{"level":"info","message":"Bookmark added"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","email":"require","password":"require","username":"require"},"states":{"default":{},"init":{"__v":true,"_id":true},"modify":{},"require":{"email":true,"password":true,"username":true}}},"backup":{"activePaths":{"default":{},"modify":{"bookmarks":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["bookmarks"],"op":null,"pathsToScopes":{"bookmarks":{"__v":1,"_id":"66726e20fd1027a8cfa6ffd1","bookmarks":["1213"],"email":"user70@example.com","password":"$2b$10$p0IzRBy7wWHME9DVtrYig.Px.SsnqQBRtSZaJC5.VTR3giddiULsm","username":"user70"}},"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":1,"_id":"66726e20fd1027a8cfa6ffd1","bookmarks":["1213"],"email":"user70@example.com","password":"$2b$10$p0IzRBy7wWHME9DVtrYig.Px.SsnqQBRtSZaJC5.VTR3giddiULsm","username":"user70"},"level":"debug","message":"Bookmark added:"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Removing bookmark"}
+{"blogId":"1213","level":"debug","message":"Removing bookmark:"}
+{"level":"info","message":"Bookmark removed"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"__v":"init","_id":"init","email":"require","password":"require","username":"require"},"states":{"default":{},"init":{"__v":true,"_id":true},"modify":{},"require":{"email":true,"password":true,"username":true}}},"backup":{"activePaths":{"default":{},"modify":{"bookmarks":true}},"validationError":null},"cachedRequired":{},"inserting":false,"modifiedPaths":["bookmarks"],"op":null,"pathsToScopes":{"bookmarks":{"__v":2,"_id":"66726e20fd1027a8cfa6ffd1","bookmarks":[],"email":"user70@example.com","password":"$2b$10$p0IzRBy7wWHME9DVtrYig.Px.SsnqQBRtSZaJC5.VTR3giddiULsm","username":"user70"}},"saveOptions":null,"savedState":{},"saving":null,"skipId":true,"validating":null},"$isNew":false,"_doc":{"__v":2,"_id":"66726e20fd1027a8cfa6ffd1","bookmarks":[],"email":"user70@example.com","password":"$2b$10$p0IzRBy7wWHME9DVtrYig.Px.SsnqQBRtSZaJC5.VTR3giddiULsm","username":"user70"},"level":"debug","message":"Bookmark removed:"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting user details"}
+{"level":"debug","message":"Getting user details:"}
+{"level":"info","message":"User details retrieved"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":3,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"User details retrieved:"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"Getting user details"}
+{"level":"debug","message":"Getting user details:"}
+{"level":"info","message":"Getting all users"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User details retrieved"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":3,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"User details retrieved:"}
+{"level":"info","message":"All users retrieved"}
+{"level":"info","message":"Getting user details"}
+{"level":"debug","message":"Getting user details:"}
+{"level":"info","message":"User details retrieved"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":3,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"User details retrieved:"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"Getting user details"}
+{"level":"debug","message":"Getting user details:"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User details retrieved"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":3,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"User details retrieved:"}
+{"level":"info","message":"Server is running on port 3030"}
+{"level":"info","message":"Getting user details"}
+{"level":"debug","message":"Getting user details:"}
+{"level":"info","message":"MongoDB connected"}
+{"level":"info","message":"User details retrieved"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","bookmarks":"init","email":"init","password":"init","username":"init"},"states":{"default":{},"init":{"__v":true,"_id":true,"bookmarks":true,"email":true,"password":true,"username":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":3,"_id":"666acbb92b04e12ef3037ade","bookmarks":["123"],"email":"user@example.com","password":"$2b$10$c8.KQkvouYSuLtYgznXia./xR0iUuO1VRieKmDFlfVsNJuA4L3eAS","username":"user"},"level":"debug","message":"User details retrieved:"}

@@ -1,0 +1,347 @@
+openapi: 3.0.3
+info:
+  title: sys-user
+  version: "1.0.0"
+  description: System API to interact with user data in database
+servers:
+  - url: http://localhost:3000/v1/api/users
+
+tags:
+  - name: user
+    description: Operations about user
+    externalDocs:
+      description: Find out more
+      url: http://swagger.io/v1/api/users
+paths:
+  /ping:
+    get:
+      tags:
+        - user
+      summary: ping endpoint
+      description: ping with status and time stamp
+      operationId: getPing
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PingResponse'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Pet not found
+        '422':
+          description: Validation exception
+      security:
+        - auth:
+            - read:ping
+            - write:ping
+  /users:
+    get:
+      tags:
+        - user
+      summary: get all users from db
+      description: get all users from database
+      operationId: getAllUsers
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AllUserResponse'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Pet not found
+        '422':
+          description: Validation exception
+      security:
+        - auth:
+            - read:all
+            - write:all
+  /register:
+    post:
+      tags:
+        - user
+      summary: create user 
+      description: create new user in database
+      operationId: signUpUser
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SignedInUser'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Pet not found
+        '422':
+          description: Validation exception
+      security:
+        - auth:
+            - read:signUp
+            - write:signUp
+      
+  /login:
+    post:
+      tags:
+        - user
+      summary: sign in user
+      description: sign in user
+      operationId: signInUser
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SignedInUser'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Pet not found
+        '422':
+          description: Validation exception
+      security:
+        - auth:
+            - read:signIn
+            - write:signIn
+  /users/{userId}:
+    get:
+      tags:
+        - user
+      summary: get user by id
+      description: get user by id
+      operationId: getUserById
+      parameters:
+        - name: userId
+          in: path
+          description: ID of user to return
+          required: true
+          schema:
+            type: string
+          example: "asasaswe"
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Pet not found
+        '422':
+          description: Validation exception
+      security:
+        - auth:
+            - read:byId
+    put:
+      tags:
+        - user
+      summary: update user password by username
+      description: update user password by username
+      operationId: updateUserById
+      parameters:
+        - name: userId
+          in: path
+          description: ID of user to return
+          required: true
+          schema:
+            type: string
+          example: "asasaswe"
+      requestBody:
+        description: User object that needs to be added to the store
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Pet not found
+        '422':
+          description: Validation exception
+      security:
+        - auth:
+            - read:byId
+  /users/{userId}/bookmark:
+    post:
+      tags:
+        - user
+      summary: add bookmark to user
+      description: add bookmark to user
+      operationId: addBookmarkToUser
+      parameters:
+        - name: userId
+          in: path
+          description: ID of user to return
+          required: true
+          schema:
+            type: string
+          example: "asasaswe"
+      requestBody:
+        description: User object that needs to be added to the store
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/bookmarkRequest'
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Pet not found
+        '422':
+          description: Validation exception
+      security:
+        - auth:
+            - read:byId
+
+    delete:
+      tags:
+        - user
+      summary: delete user by id
+      description: delete user by id
+      operationId: deleteUserById
+      parameters:
+        - name: userId
+          in: path
+          description: ID of user to return
+          required: true
+          schema:
+            type: string
+          example: "asasaswe"
+      requestBody:
+        description: User object that needs to be added to the store
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/blogDeleteRequest'
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/User'
+        '400':
+          description: Invalid ID supplied
+        '404':
+          description: Pet not found
+        '422':
+          description: Validation exception
+      security:
+        - auth:
+            - read:byId
+
+components:
+  schemas:
+    PingResponse:
+      properties:
+        status:
+          type: string
+          example: "running"
+        api_name:
+          type: string
+          example: "sys-user"
+        timestamp_utc:
+          type: string
+        instance:
+          type: string
+          example: "/v1/api/user/ping"
+    NewUser:
+      properties:
+        email:
+          type: string
+          example: "user@email.com"
+        username:
+          type: string
+          example: "username"
+        password:
+          type: string
+          example: "exz@1212asAS"
+    User:
+      properties:
+        email:
+          type: string
+          example: "user@email.com"
+        username:
+          type: string
+          example: "username"
+        id:
+          type: "string"
+          example: "ffdgdhauqhqusjakelk"
+        bookmarks:
+          description: "list of blog ids"
+          type: array
+          items:
+            type: string
+          example: ["asasaswe","asaedsa","sasadsa"]
+        blogs:
+          description: "list of blog ids"
+          type: array
+          items:
+            type: string
+          example: ["asasaswe","asaedsa","sasadsa"]
+    AllUserResponse:
+      properties:
+        users: 
+          type: array
+          items:
+            $ref: '#/components/schemas/User'
+    SignedInUser:
+      properties:
+        email:
+          type: string
+          example: "user@email.com"
+        username:
+          type: string
+          example: "username"
+        token:
+          type: "string"
+          example: "Bearer wasadsasa.asaweas.sasdfsada"
+        bookmarks:
+          description: "list of blog ids"
+          type: array
+          items:
+            type: string
+          example: ["asasaswe","asaedsa","sasadsa"]
+    bookmarkRequest:
+      properties:
+        blogId:
+          type: string
+          example: "asasaswe"
+    blogDeleteRequest:
+      properties:
+        blogId:
+          type: string
+          example: "asasaswe"
+  parameters:
+    xCorrelationID:
+      name: x-Correlation-ID
+      in: header
+      schema:
+        type: string
+        
+        
